@@ -1,0 +1,36 @@
+table{
+  background-color: rgb(53, 52, 52);  
+   margin: 0px auto;
+    /* border: 1px solid black; */
+ 
+}
+
+td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 12px;
+}
+
+.number{
+    text-align: right;
+    background-color: bisque;
+    font-size: larger;
+}
+
+.plus{
+    text-align: center;
+    background-color: orange;
+}
+
+.black{
+    background-color: rgb(42, 41, 41);
+    color: white;
+}
+.grey{
+    background-color: grey;
+    color: white;
+}
+
+.gap{
+    border: none;
+}
