@@ -2,7 +2,6 @@ table{
   background-color: rgb(53, 52, 52);  
    margin: 0px auto;
     /* border: 1px solid black; */
- 
 }
 
 td{
@@ -14,7 +13,7 @@ td{
 .number{
     text-align: right;
     background-color: bisque;
-    font-size: larger;
+    font-size: x-large
 }
 
 .plus{
@@ -33,4 +32,7 @@ td{
 
 .gap{
     border: none;
+    height: 0.4em;
+    padding: 0px;
 }
+
